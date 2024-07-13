@@ -1,0 +1,50 @@
+body{
+    background-image: url("https://picsum.photos/200/300/?random");   
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   }
+.a{
+    color: red;
+}
+.first{
+    font-size: medium;
+    font-family: unset;
+    color: blue;
+} 
+.second{
+    font: size 2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+.color-red{
+    color: rgb(228, 136, 16);
+    text-align: center;
+    font-size: 30px;
+    font-family:Impact, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 0lvh;
+    text-wrap: wrap;
+    text-decoration: solid;
+}
+.color-blue{
+    color: rgb(230, 149, 44);
+    font-size: 25px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 0lvh;
+    text-wrap: wrap;
+    text-decoration: solid;
+}
+.image-s{
+    overflow: auto;
+    gap: 5px;
+}
+.navstyle{
+    font-size: 5%;
+    background-color: wheat;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
